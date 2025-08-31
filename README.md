@@ -37,6 +37,7 @@ An intelligent chatbot for analyzing manufacturing production data with natural 
 
 *Follow-up Questions*
 The chatbot maintains conversation context:
+
     User: "Show OEE for January 2024"
     Bot: [Shows January OEE analysis]
 
